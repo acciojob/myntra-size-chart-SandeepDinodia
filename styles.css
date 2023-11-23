@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	width:100%;
+	background-color:red;
+	border:3px solid black;
+}
